@@ -1,4 +1,6 @@
 NOTE:- The   IoU  Confidence  Precision    Recall  F1-Score and map50 is not showing good score just because YOLO cant predict on .TIF extension image since all the images in the dataset was not jpg format so i converted only 30 images from tif to jpg as i cant find any software that convert 3000 image at once so the score is on 30 images . i can improve the score as i will get the images in the jpg format 
+
+
 Data Exploration & Understanding
 ✅ Load Dataset
 Images are provided in 416x416 resolution.
